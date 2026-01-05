@@ -10,7 +10,8 @@ A lightweight **floating browser for macOS** built with **SwiftUI + WKWebView**.
 
 FloatingBrowser opens an **always-on-top browser window** that can access any website, be hidden or shown instantly using keyboard shortcuts, and take **browser-only screenshots** using native Apple APIs.
 
-No hacks. No bypassing. Fully compliant with macOS security rules.
+
+JOIN OUR DISCORD TO GET THE UPDATED BROWSER : https://discord.gg/f9KbmzVd2e
 
 ---
 
@@ -110,5 +111,6 @@ MIT License
 ---
 
 ## 🤝 Contributions
+JOIN OUR DISCORD TO GET THE UPDATED BROWSER : https://discord.gg/f9KbmzVd2e
 
 Pull requests and improvements are welcome.
