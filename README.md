@@ -110,6 +110,6 @@ MIT License
 ---
 
 ## 🤝 Contributions
-JOIN OUR DISCORD TO GET THE UPDATED OVERLAY : https://discord.gg/KqjurQ4B
+JOIN OUR DISCORD TO GET THE UPDATED OVERLAY : https://discord.gg/vA6cmpSACN
 
 Pull requests and improvements are welcome.
