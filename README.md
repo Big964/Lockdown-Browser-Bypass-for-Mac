@@ -1,5 +1,5 @@
 
-# FloatingBrowser (macOS)
+# FloatingBrowser (macOS) UPDATED
 
 ![macOS](https://img.shields.io/badge/macOS-12%2B-blue)
 ![Swift](https://img.shields.io/badge/Swift-5.7-orange)
